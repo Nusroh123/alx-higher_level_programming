@@ -1,0 +1,2 @@
+#!/usr/bib/python3
+print(open("9-easter_egg.py").read())
